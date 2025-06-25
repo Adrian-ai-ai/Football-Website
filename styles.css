@@ -83,7 +83,7 @@ body{
     font-size: 0.8em;
 }
 #nav-bar .nav-links li .sub-menu li:hover a{
-    border-bottom: 1em  solid;
+    border-bottom: 1px  solid;
     color: #fff;
 }
 #nav-bar .nav-links li:hover .sub-menu {
