@@ -535,16 +535,16 @@ transition: 0.2s ease-in-out;
   font-size: 2rem;
   cursor: pointer;
   z-index: 2;
-  padding: .solid .8em;
+  padding: .8em;
  
 }
 
 .nav.prev {
-  left: .solid;
+  left: .5em;
 }
 
 .nav.next {
-  right: .solid;
+  right: .5em;
 }
 
 /* Responsive adjustments */
