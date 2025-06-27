@@ -137,8 +137,8 @@ grid-area: slider;
 
 .head-img {
   width: 100%;
-  height: 100vh;
-  object-fit:cover;
+  height: auto;
+  object-fit:contain;
 }
 
 #slider .slide a figcaption {
@@ -873,6 +873,11 @@ width:8rem;
 #slider{
     margin-top:0px;
     margin-bottom:0px;
+}
+.head-img {
+  width: 100%;
+  height: 100vh;
+  object-fit:cover;
 }
 
 .slide-nav{
